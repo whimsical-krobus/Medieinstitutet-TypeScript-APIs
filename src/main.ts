@@ -8,5 +8,5 @@ import "./style.css";
 fetch(import.meta.env.VITE_API_URL)
   .then((response) => response.json())
   .then((data: perenualResponse) => {
-    console.log(data);
+    console.log(data.data);
   });
