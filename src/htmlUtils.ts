@@ -1,7 +1,2 @@
-/* Display:
-    common_name
-    scientific_name
-    default_image
-    family
-    genus
-*/
+/* Display: common_name, scientific_name, family, genus, default_image */
+
